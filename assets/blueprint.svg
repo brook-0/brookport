@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='400'>
+<rect width='100%' height='100%' fill='#031827'/>
+<g stroke='#052e3a' stroke-width='1'>
+  <path d='M10 10 H590' />
+  <path d='M10 390 H590' />
+  <path d='M10 200 H590' />
+  <path d='M150 10 V390' />
+  <path d='M300 10 V390' />
+  <path d='M450 10 V390' />
+</g>
+</svg>
